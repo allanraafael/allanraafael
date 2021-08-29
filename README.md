@@ -2,8 +2,8 @@
 
 <div class="row">
       <a href="https://github.com/allanraafael">
-          <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=allanraafael&layout=compact&langs_count=7&theme=dark"/>
-          <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanraafael&layout=compact&langs_count=7&theme=dark"/>
+          <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=allanraafael&layout=compact&langs_count=7&theme=dark"/>
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanraafael&layout=compact&langs_count=7&theme=dark"/>
       </a>
 </div>
 
