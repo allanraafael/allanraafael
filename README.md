@@ -1,4 +1,4 @@
-## Olá! Eu sou Allan Rafael
+## Hi! I am Allan Rafael
 
 <div class="row">
       <a href="https://github.com/allanraafael">
